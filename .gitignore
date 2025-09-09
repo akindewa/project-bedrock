@@ -1,0 +1,10 @@
+# Ignore Terraform state files and local plugins
+# *.tfstate
+# *.tfstate.*
+# .terraform/
+
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+.terraform/
